@@ -18,8 +18,8 @@
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=""https://www.linkedin.com/in/sethupathy-muneeswaran-896684249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethupathy muneeswaran" height="30" width="40" /></a>
-<a href=""https://instagram.com/sethupathymuneeswaran2?igshid=OGQ2MjdiOTE=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sethupathymuneeswaran" height="30" width="40" /></a>
+<a href=""https://www.linkedin.com/in/sethupathy-muneeswaran-896684249"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethupathy muneeswaran" height="30" width="40" /></a>
+<a href=""https://instagram.com/sethupathymuneeswaran2?igshid=OGQ2MjdiOTE="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sethupathymuneeswaran" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:

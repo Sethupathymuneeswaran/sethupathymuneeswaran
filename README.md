@@ -12,11 +12,14 @@
          height="100%"
          width="100%" />
 💫 About Me:
-🔭 I’m Currently Working as Freelancer<br>🌱 I’m Currently Learning **Data Analytics**& **AI**<br>💬 Ask me about  Python , java , Html & Css<br>
+🔭 I’m Currently Working as Freelancer <br>
+🌱 I’m Currently Learning Data Analytics & AI <br>
+💬 Ask me about  Python , java , Html & Css<br>
+
 📫 How to reach me **sethupathymuneeswaran@gmail.com**
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sethupathy-muneeswaran-896684249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethupathy muneeswaran" height="30" width="40" /></a>

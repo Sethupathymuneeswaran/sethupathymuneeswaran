@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">A Passionate Webdeveloper & Software engineer From India</h3>
- <img src="gifs.gif" 
+ <img src="Me.jpg" 
          alt="boy working gif"
          height="100%"
          width="100%" />

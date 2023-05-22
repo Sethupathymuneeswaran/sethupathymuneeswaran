@@ -39,10 +39,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sethupathymuneeswaran&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://doc-0c-1s-docs.googleusercontent.com/docs/securesc/nqll6ng36h86ttrsm6p8vfn9p5l9jdub/9qdi46cfvqqn7f50r7358ctpf87v7fof/1684738500000/03214419029389359479/03214419029389359479/1MPTa3NvE2Tsu_QICsGzPW9zg8Qj68WJO?ax=ADWCPKA9TwaeYKZzIesMu2vlJca-IBaQU3C6VXYBcoy6PukbTBIOCi_qbKZlcvaDK8TqfMt7s33fXunif8ZzmRGhElJOfu3-xTJd3NWpEjVH3RNwQnn4kCoyf_htbWlbC9LRviYyt_e3PXT9qVZIH11b2_R0wb0IAJU-v4kKGubhWFKUBJRSn1pHoSboizRg8kMLupDqqqdmNAM0xZjItyH7VWWF8eF5qY5Jhhf0jpDSXA8V-ehhLfPwcpwNp2NDPfY4B09XGArQant--XA0KmY8crme6TW-Yvee7JvysZIpra_SMEzGIsN-zUgrx6JabLYvjnjfXCQkA70XAoHIc1Ev5K2kelV3EY4sOCBBQ-aIIb5WisVMfb64IlYisG7ixLxtPS-2hhfQgnMrIf0-EnxE1YFlub_xrnVe81onYdd7kTb8vF4ScHeY8XbiUHNR0mcBShpVB0KbJcmxDlZBFTgwYV8eTdXuqnNJ8uhTnBLJ58nAZFLMkpdZykSq1_8ciInehkV-OfPE0dwq4ebflxco7HC2tgJYGWHvjGRWSz8i-6c35GyKDWyN8PGMUga42dx7V9k78N1820fXcZEJjgB-kWkMgmkRZuOQyTAXrWNMGcnI0xL9qCAmjtzDo26fXe4nyjT5gGvTbjN_-Un3cx_CJ5J7xof5xCdisOJ7uZTanmFRSypeJte9KZ3qlvYjp-ezxfUzzTRcJITYARB6Rhn44XaD-HDpDk0f1iFVGsecQ52tZOxzGbo5TLCXUXPaTwDmaIblebg-Q7f1ffLe5NbYxonzaOW-YDHPr_JQFRTpjmZh26R-yLI22FYemoznuw1Pd3yx31gaQt2TSmURF3rvsmITIoben0j2V-PrBN-HhQ0tfYilGJ7CcZ8yDNMShq3GUQ&uuid=86cdd0d6-bc85-4ad4-9ec5-5bf501929902&authuser=0&nonce=7d457hmdr5k0i&user=03214419029389359479&hash=dnaq1ioulb4ibkofsq10pibpfd7q59t5" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=sethupathymuneeswaran&icon=0&color=4)](https://visitcount.itsvg.in)
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 

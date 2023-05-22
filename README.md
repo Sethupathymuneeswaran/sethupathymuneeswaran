@@ -12,7 +12,8 @@
          height="100%"
          width="100%" />
 💫 About Me:
-🔭 I’m Currently Working as Freelancer<br>🌱 I’m Currently Learning Data  Analytics & AI<br>💬 Ask me about  Python , java , Html & Css<br>
+🔭 I’m Currently Working as Freelancer<br>🌱 I’m Currently Learning **Data Analytics**& **AI**<br>💬 Ask me about  Python , java , Html & Css<br>
+📫 How to reach me **sethupathymuneeswaran@gmail.com**
 
 
 ## 🌐 Socials:

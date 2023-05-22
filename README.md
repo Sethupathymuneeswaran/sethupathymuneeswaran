@@ -9,9 +9,9 @@
 <h3 align="center">A Passionate Webdeveloper & Software engineer From India</h3>
  <img src="Me.jpg" 
          alt="boy working gif"
-         height="100%"
-         width="100%" />
-# 💫 About Me:
+         height="50%"
+         width="50%" />
+💫 About Me:
 🔭 I’m Currently Working as Freelancer<br>🌱 I’m Currently Learning Data  Analytics & AI<br>💬 Ask me about  Python , java , Html & Css<br>
 
 
